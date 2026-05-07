@@ -99,9 +99,11 @@ Análise e modelagem de sistemas de segurança e automação corporativa utiliza
 ## Decisões de Projeto / Design Decisions
 
 **PT:** Inclusão e Acessibilidade: A decisão de utilizar comandos de voz e feedback sonoro distinto foi tomada para garantir que todos os colaboradores, incluindo funcionários PCD, tenham autonomia total no ambiente de trabalho.
+<br>
 **EN:** Inclusion and Accessibility: The decision to use voice commands and distinct audio feedback was made to ensure that all employees, including staff with disabilities, have full autonomy in the workplace.
 
 **PT:** Segurança Multicamada: A escolha do padrão AES-256 e TLS 1.3 reflete o compromisso com a proteção de dados biométricos e a conformidade com a LGPD.
+<br>
 **EN:** Multi-layered Security: The choice of AES-256 and TLS 1.3 standards reflects the commitment to protecting biometric data and complying with LGPD.
 
 ---
@@ -109,9 +111,12 @@ Análise e modelagem de sistemas de segurança e automação corporativa utiliza
 ## Principais Aprendizados / Key Learnings
 
 **PT:** Tradução de necessidades de negócio complexas em especificações técnicas rigorosas através de diagramas UML e Engenharia de Requisitos.
+<br>
 **EN:** Converting complex business needs into rigorous technical specifications through UML diagrams and Requirements Engineering.
 
+
 **PT:** Equilíbrio entre inovação tecnológica (IA) e restrições regulatórias (ABNT, ANATEL, LGPD).
+<br>
 **EN:** Balancing technological innovation (AI) with regulatory constraints (ABNT, ANATEL, LGPD).
 
 ---
@@ -119,6 +124,9 @@ Análise e modelagem de sistemas de segurança e automação corporativa utiliza
 ## Contexto Acadêmico / Academic Context
 
 Instituição / Institution: UNINTER (Recife, PE)
+<br>
 Curso / Course: Análise e Desenvolvimento de Sistemas
+<br>
 Data / Date: Agosto de 2025 (August 2025)
+<br>
 Avaliação / Grade: 100/100 (Nota máxima baseada em rigor técnico / Max grade achieved based on technical rigor)
