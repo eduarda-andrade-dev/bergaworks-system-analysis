@@ -1,4 +1,4 @@
-# 🏢 BergaWorks | Controle de Acesso Inteligente
+# BergaWorks | Controle de Acesso Inteligente
 
 Documentação técnica e modelagem arquitetural para um sistema corporativo de segurança biométrica focado em conformidade legal (LGPD), automação e acessibilidade.
 
